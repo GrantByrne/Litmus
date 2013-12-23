@@ -51,3 +51,8 @@ You can access the NuGet package [**Here**](https://www.nuget.org/packages/Litmu
             Console.ReadLine();
         }
     }
+
+Issues/Feature Requests
+-----------------------
+
+Please add an entry to the issues section of the Repository. I would like to continue developing this API in way that is useful to other people.
